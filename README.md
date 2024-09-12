@@ -25,15 +25,11 @@ This application is designed to manage Auto Logout Functionality using SOCKET.IO
    npm install
    cp .env.example .env
    php artisan migrate
-
-
-
-
-**To run the project and socket server this command:**
-    ```bash
-    php artisan server
+   ------------NOW RUN THE PROJEC--------------------------------------
+   php artisan server
     npm run dev
     node socket-server/server.js
+
 
 
 ## Requirements
